@@ -1,5 +1,5 @@
 <h1 align="center"> Hi There ✋, I am Pratham Agrawal</h1> 
-<p>Good to see you here, Hii I am currently pursuing a Bachlor's Degree in <strong>Computer Science</strong> from <strong>SIES College of Arts, Commerce and Science</strong>. Along with FullStack Webdevelopment course from <a href="https://www.masaischool.com"><img src="https://www.masaischool.com/img/navbar/logo.svg" height="40"/></a>. As of now, I am focused on FullStack Web development but still, wish to explore many fields and new technology.</p>
+<p>Good to see you here, Hii I am currently pursuing a Bachlor's Degree in <strong>Computer Science</strong> from <strong>SIES College of Arts, Commerce and Science</strong>. Along with FullStack Webdevelopment course from <a href="https://www.masaischool.com"><img src="https://www.masaischool.com/img/navbar/logo.svg" marin="0" height="40"/></a>. As of now, I am focused on FullStack Web development but still, wish to explore many fields and new technology.</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
