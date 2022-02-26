@@ -1,5 +1,5 @@
 <h1 align="center"> Hi There ✋, I am Pratham Agrawal</h1> 
-<p>Good to see you here, Hii I am currently pursuing a Bachlor's Degree in <strong>Computer Science</strong> from <strong>SIES College of Arts, Commerce and Science</strong>. Along with FullStack Webdevelopment course from <a href="https://www.masaischool.com">Masai school</a>. As of now, I am focused on FullStack Web development but still, wish to explore many fields and new technology.</p>
+<p>Good to see you here, Hii I am currently pursuing a Bachlor's Degree in <strong>Computer Science</strong> from <strong>SIES College of Arts, Commerce and Science</strong>. Along with FullStack Webdevelopment course from <a traget="_blank" href="https://www.masaischool.com">Masai school</a>. As of now, I am focused on FullStack Web development but still, wish to explore many fields and new technology.</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -9,7 +9,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
