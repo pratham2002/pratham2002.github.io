@@ -1,5 +1,4 @@
 const index = {};
-
 index.$menu = $('#sideMenu');
 index.$navItem = $('.navItem');
 index.$navItemName = $('.navItemName')
