@@ -420,7 +420,7 @@ section {
 }
 
 .techStack {
-  color: #8444df;
+  color: #11047a;
 }
 
 .menuButton {
@@ -436,7 +436,7 @@ section {
 }
 
 .menuButton:focus {
-  border: 2px solid #8444df;
+  border: 2px solid #11047a;
 }
 
 .menuButton .linesContainer {
@@ -481,7 +481,7 @@ section {
   justify-content: space-between;
   width: 105px;
   height: 100vh;
-  background-color: #8444df;
+  background-color: #11047a;
   position: fixed;
   color: white;
   -webkit-transition: all 0.3s ease-in;
@@ -495,7 +495,7 @@ section {
   font-size: 3rem;
   letter-spacing: 1px;
   font-weight: 300;
-  background-color: #773dc8;
+  background-color: #8444df;
 }
 
 .sideMenu nav {
@@ -632,7 +632,7 @@ header .heroDescription h1 {
 }
 
 header .heroDescription h1 span {
-  color: #8444df;
+  color: #11047a;
 }
 
 header .heroDescription .smallBio {
@@ -644,7 +644,7 @@ header .heroDescription .smallBio {
 }
 
 header .heroDescription .smallBio span {
-  color: #8444df;
+  color: #11047a;
   font-size: 1.1rem;
 }
 
@@ -656,7 +656,7 @@ header .heroDescription .socialsResume {
 }
 
 header .heroDescription .socialsResume .resumeLink {
-  background-color: #8444df;
+  background-color: #11047a;
   padding: 15px 35px;
   border-radius: 40px;
   letter-spacing: 2px;
@@ -694,7 +694,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
   padding: 9px 10px;
   background-color: white;
   border-radius: 6px;
-  color: #8444df;
+  color: #11047a;
   border: 1px solid #eee;
   -webkit-box-shadow: 0px 4px 6px rgba(134, 151, 168, 0.1);
   box-shadow: 0px 4px 6px rgba(134, 151, 168, 0.1);
@@ -720,7 +720,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
 }
 
 .aboutContainer p span {
-  color: #8444df;
+  color: #11047a;
 }
 
 .skillsContainer {
@@ -826,7 +826,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
 }
 
 .workBox .workDescribeContainer h4 span {
-  color: #8444df;
+  color: #11047a;
   display: inline-block;
   padding: 0 5px;
 }
@@ -838,13 +838,13 @@ header .heroDescription .socialsResume .resumeLink:focus {
 .workBox .workDescribeContainer .workLinks a {
   font-size: 1.1rem;
   margin-right: 20px;
-  color: #8444df;
+  color: #11047a;
   display: inline-block;
   text-decoration: underline;
 }
 
 .workBox .workDescribeContainer .workLinks a:focus {
-  border: 2px solid #8444df;
+  border: 2px solid #11047a;
 }
 
 .contactContainer h3 {
@@ -916,7 +916,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
 }
 
 .contactTypes .flexContainer .typeBox a:focus {
-  border: 2px solid #8444df;
+  border: 2px solid #11047a;
 }
 
 .contactTypes .flexContainer .typeBox p {
@@ -936,17 +936,6 @@ header .heroDescription .socialsResume .resumeLink:focus {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-}
-
-.contactFormContainer form {
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-columns: (1fr) [2];
-  grid-template-columns: repeat(2, 1fr);
-  row-gap: 20px;
-  -webkit-column-gap: 25px;
-  column-gap: 25px;
-  margin-bottom: 35px;
 }
 
 .contactFormContainer form input,
@@ -1016,7 +1005,7 @@ header .heroDescription .socialsResume .resumeLink:focus {
   padding: 14px 40px;
   font-size: 0.9rem;
   border: none;
-  background-color: #8444df;
+  background-color: #11047a;
   color: white;
   letter-spacing: 1px;
   border-radius: 40px;
@@ -1245,7 +1234,7 @@ footer p {
 }
 .contactContainer i {
   padding-right: 1rem;
-  color: #8444df;
+  color: #11047a;
 }
 
 /* .row .content {
