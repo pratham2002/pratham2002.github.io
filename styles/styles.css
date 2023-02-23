@@ -669,15 +669,17 @@ header .heroDescription .socialsResume .resumeLink {
 }
 
 header .heroDescription .socialsResume .resumeLink:hover {
+  background-color: #11047a;
   -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.2);
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.2);
 }
 
 header .heroDescription .socialsResume .resumeLink:focus {
   border-color: #80bdff;
+  background-color: #11047a;
   outline: 0;
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
-  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  -webkit-box-shadow: 0 0 0 0.2rem #11047a;
+  box-shadow: 0 0 0 0.2rem #11047a;
 }
 
 .socialsList {
@@ -1081,7 +1083,7 @@ footer p {
     margin-left: 0;
   }
   .sideMenu {
-    width: 220px;
+    width: 180px;
     -webkit-box-pack: start;
     -ms-flex-pack: start;
     justify-content: flex-start;
@@ -1145,8 +1147,9 @@ footer p {
     padding: 0;
   }
   .aboutContainer {
-    line-height: 1.3;
+    line-height: 1.3rem;
     font-size: 1rem;
+    padding: 0px 20px;
   }
   .workBox {
     display: block;
